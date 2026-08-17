@@ -1,0 +1,16 @@
+{
+    "LITTLEWIZARD-LITTLE_WIZARD.titleObject": "O Pequeno Mago",
+    "LITTLEWIZARD-LITTLE_WIZARD.possessiveAdjective": "dele/dela",
+    "LITTLEWIZARD-LITTLE_WIZARD.goldMonologue": "Fala dita ao obter uma grande quantidade de ouro",
+    "LITTLEWIZARD-LITTLE_WIZARD.aromaPrinciple": "Lore",
+    "LITTLEWIZARD-LITTLE_WIZARD.pronounPossessive": "dele/dela",
+    "LITTLEWIZARD-LITTLE_WIZARD.pronounObject": "dele/dela",
+    "LITTLEWIZARD-LITTLE_WIZARD.banter.dead.endTurnPing": "...",
+    "LITTLEWIZARD-LITTLE_WIZARD.eventDeathPrevention": "Fala de sobrevivência no Co-op",
+    "LITTLEWIZARD-LITTLE_WIZARD.title": "O Pequeno Mago",
+    "LITTLEWIZARD-LITTLE_WIZARD.cardsModifierTitle": "Cartas do __",
+    "LITTLEWIZARD-LITTLE_WIZARD.pronounSubject": "ele/ela",
+    "LITTLEWIZARD-LITTLE_WIZARD.cardsModifierDescription": "Cartas do __ agora aparecerão em recompensas e lojas.",
+    "LITTLEWIZARD-LITTLE_WIZARD.description": "Descrição na Tela\nde Seleção de Personagem",
+    "LITTLEWIZARD-LITTLE_WIZARD.banter.alive.endTurnPing": "Mensagem de aviso para passar o turno no Co-op"
+}
